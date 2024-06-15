@@ -1,0 +1,132 @@
+@media (max-width: 1600px) {
+.header-box{margin-bottom: 40px;}
+.header-box img{width: 450px;}
+.center-box {margin: 40px auto;}
+/*.contact-label span {font-size: 26px;}*/
+.footer-cta-box a .footer-cta-inner span{font-size: 26px;}
+.contact-label .icon img {width: 45px;height: 45px;}
+.footer-box,
+.footer-logo{margin-top: 40px;}
+
+/********** Bonus Form **********/
+.bonus-form-page .wrapper{padding: 30px 30px;}
+.bonus-form-page .header-box img {width: 220px;}
+.bonus-form-page .header-box .otherimg {width: 330px;}
+.bonus-form-page .head-text{font-size: 24px;}
+.form-group{margin-bottom: 15px;}
+.bonus-form .file-wrap .upload-text{font-size: 20px;}
+.custom-btn{font-size: 20px;}
+}
+
+@media (max-width: 1440px) {
+.container{max-width: 800px;}
+.header-box img {width: 380px;}
+.contact-label{background-size: 390px;}
+/*.contact-label span {font-size: 22px;padding: 10px 20px;}*/
+/*.footer-cta-box a .footer-cta-inner{background-size: 300px;padding-left: 100px;}*/
+.footer-cta-box a .footer-cta-inner span{font-size: 22px;padding: 15px 10px;}
+/*.contact-no{background-size: 300px;padding: 20px 15px;}*/
+/*.contact-no a{font-size: 22px;}*/
+/*.contact-no a img{height: 27px;}*/
+.footer-logo img{width: 280px;}
+.footer-cta-box span {font-size: 20px;}
+.contact-box.whatsapp a .contact-label{background-size: 330px;}
+/*.contact-box.whatsapp a .contact-label img{width: 110px;}*/
+.contact-box.whatsapp a .contact-label span{font-size: 18px;}
+
+/********** Bonus Form **********/
+.bonus-form-page .header-box img {width: 200px;}
+.bonus-form-page .header-box .otherimg {width: 300px;}
+.bonus-form-page .head-text{font-size: 20px;}
+.form-control{height: 50px;}
+.thank-you-icon{margin-bottom: 20px;}
+.thank-you-box p{font-size: 22px;}
+.thank-you-icon img {width: 130px;}
+.footer-cta{max-width: 650px;}
+.whatsapp-telegram-wrap{max-width: 650px;}
+}
+
+@media (max-width: 1366px) {
+/*.contact-no a {font-size: 22px;}*/
+}
+
+@media (max-width: 1199px) {
+body {font-size: 16px;}
+.border {margin-left: 0;margin-right: 0;}
+.footer-cta{padding: 0 30px 0 20px;}
+}
+
+@media (max-width: 767px) {
+.container {padding: 40px 15px;}
+.center-box {max-width: 300px;margin: 30px auto;}
+.header-box{margin-bottom: 30px;}
+.header-box img {width: 280px;}
+/*.contact-box {display: block;}*/
+/*.contact-label {-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;border-radius: 10px 10px 0 0;-ms-flex-pack: center;justify-content: center;}
+.contact-no {-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;margin: 0;border-radius: 0 0 10px 10px;text-align: center;}*/
+.bonus-form-page .container{padding: 0;}
+.header-title-desc{margin: 0 auto 20px;}
+.header-title-desc h2{font-size: 24px;}
+.header-title-desc p{font-size: 16px;}
+.bonus-thank-you p{font-size: 18px;}
+.form-control{height: 45px;font-size: 16px;}
+.bonus-form-page .wrapper{padding: 40px 30px 250px;}
+.bonus-thank-you img{width: 120px;}
+.custom-btn{padding: 12px 25px 11px 25px;font-size: 16px;}
+.head-img {margin-bottom: 10px;}
+.border {margin-left: 0;margin-right: 0;}
+.footer-cta-box {margin: 0 10px;}
+.footer-cta-box a {-ms-flex-pack: center;justify-content: center;}
+.footer-cta-box .name:before {width: 2px;top: -2px;bottom: -2px;}
+.footer-cta-box .icon img {width: 30px;margin-right: 10px;}
+.footer-cta-box span {font-size: 12px;border-width: 2px;}
+.footer-cta-box span:before {top: -2px;bottom: -2px;width: 2px;right: -7px;transform: skewX(-13deg);}
+.footer-cta-box span:after {height: 2px;top: -2px;right: -12px;}
+.footer-logo img {width: 220px;}
+.form-control{font-size: 17px;}
+.custom-btn{font-size: 18px;}
+.bonus-form .file-wrap .upload-text{font-size: 18px;}
+.contact-label,
+.contact-no {-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;}
+.contact-no{background-size: 290px;margin: 0;}
+.contact-no a{font-size: 20px;padding: 0 0 0 45px;}
+.contact-no a img{height: 22px;}
+.contact-label{background-size: 290px;margin-bottom: 20px;}
+.contact-label img{width: 290px;}
+.contact-label span{font-size: 18px;}
+.whatsapp-telegram-wrap{display: block;padding: 0;margin-bottom: 30px;}
+/*.contact-box.whatsapp + .whatsapp{margin-left: 0;}*/
+.contact-box.whatsapp a .contact-label{background-size: 290px;margin-bottom: 20px;}
+/*.contact-box.whatsapp a .contact-label img{width: 90px;}*/
+.contact-box.whatsapp a .contact-label img{width: 220px;}
+.contact-box.whatsapp a .contact-label span{font-size: 16px;}
+.contact-box{display: block;}
+.footer-cta{display: block;padding: 0;max-width: 300px;width: 100%;margin: 0 auto;}
+.footer-cta-box{margin: 0;}
+.footer-cta-box + .footer-cta-box{margin: 0;}
+/*.footer-cta-box a .footer-cta-inner img{width: 70px;}*/
+.footer-cta-box a .footer-cta-inner span{font-size: 18px;}
+/*.footer-cta-box a .footer-cta-inner{background-size: 280px;margin-bottom: 20px;padding-left: 80px;}*/
+.footer-box, .footer-logo{margin-top: 30px;}
+.footer-cta-box a .footer-cta-inner{margin-bottom: 20px;}
+.footer-cta-box a .footer-cta-inner img{width: 220px;display: block;margin: 0 auto;}
+
+/********** Bonus Form **********/
+.bonus-form-page .wrapper{padding: 30px 20px;}
+.bonus-form-page .header-box img{width: 150px;}
+.bonus-form-page .header-box .otherimg{width: 230px;}
+.bonus-form-page .head-text{font-size: 18px;}
+.form-control{font-size: 16px;}
+.custom-btn{font-size: 18px;}
+.thank-you-box p{font-size: 20px;}
+.thank-you-icon img {width: 120px;}
+.whatsapp-telegram-wrap .contact-box{margin-bottom: 20px;}
+}
+
+@media (max-width: 360px) {
+.bonus-form .file-wrap .upload-text{padding: 10px 20px 10px 50px;background-position: left 15px center;}
+}
+
+@media (orientation: landscape) and (max-width: 767px) {
+.container {padding: 50px 0;}
+}
