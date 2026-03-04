@@ -88,8 +88,8 @@ body {font-size: 16px;}
 .bonus-form .file-wrap .upload-text{font-size: 18px;}
 .contact-label,
 .contact-no {-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;}
-.contact-no{background-size: 290px;margin: 0;}
-.contact-no a{font-size: 20px;padding: 0 0 0 45px;}
+.contact-no{background-size: 290px;margin: 0; display: flex; justify-content: center; align-items: center;}
+.contact-no a{font-size: 20px;padding: 0 0 0 0;}
 .contact-no a img{height: 22px;}
 .contact-label{background-size: 290px;margin-bottom: 20px;}
 .contact-label img{width: 290px;}
